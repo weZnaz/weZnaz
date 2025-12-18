@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
 
-- 🌱 I’m currently learning *C++,C,Data structure and algorithm, problem solving*
+- 🌱 I’m currently learning *C++,C,,java,Android Devlopment,Python,Data structure and algorithm, problem solving*
 
 - 👯 I’m looking to collaborate on *Beginner level project*
 
-- 🤝 I’m looking for help with *Anything*
+- 🤝 I’m looking for help with *NA*
 
-- 💬 Ask me about *Problem on Codeforces*
+- 💬 Ask me about *Problem on Codeforces,Android Studio*
 
 - 📫 How to reach me *syednazmulislamramim@gmail.com*
 
